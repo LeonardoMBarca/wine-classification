@@ -7,3 +7,8 @@
  Jupyter Notebook (optional, but recommended for viewing notebooks)
  Pandas
  Scikit-learn
+
+   <h2>Author</h2>
+
+  <p><a href="https://github.com/LeonardoMBarca">Leonardo Moraes Barca</a></p>
+</html>
